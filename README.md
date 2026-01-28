@@ -47,5 +47,5 @@ nel file `elementiChimici.csv`
 
 ## Crediti
 
-Questo software è stato realizzato da Lorenzo Porta - Matricola 12778
+Questo software è stato realizzato da Lorenzo Porta - Matricola 12778 
 Classe 5FIN - A.S. 2025/2026 - ITT "G. Fauser" - Novara
