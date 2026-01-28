@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="AnalisiChimica-Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AnalisiChimica_Server_jar</output-path>
+    <root id="root">
+      <element id="archive" name="AnalisiChimica-Server.jar">
+        <element id="module-output" name="AnalisiChimica-Server" />
+      </element>
+    </root>
+  </artifact>
+</component>
